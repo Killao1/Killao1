@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000000&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=009439&reversal=true"/>
 
 <div align="center">
   <p>システムアナリストおよび開発者</p>
@@ -66,4 +66,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000000&reversal=true&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=009439&reversal=true&section=footer"/>
