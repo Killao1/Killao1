@@ -58,7 +58,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKillao1&s=40&c=00ff6e&bg=00000000&no=4&ff=alien&tb=Profile+Views%3A+&ta=" /></p>
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKillao1&s=30&c=00ff6e&bg=00000000&no=4&ff=alien&tb=Profile+Views%3A+&ta=" /></p>
 </div>
 
 
