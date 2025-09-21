@@ -53,7 +53,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/Killao1/Reposit-rio-Pessoal/blob/main/PixelArtus_com.gif" width="100">
+  <img src="https://raw.githubusercontent.com/Killao1/Killao1/main/PixelArtus_com.gif" width="100">
 </div>
 <br>
 
