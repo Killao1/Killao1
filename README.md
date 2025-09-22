@@ -13,7 +13,7 @@
 
 <div align="center">
 
- | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Killao1&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Killao1&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Killao1&theme=chartreuse_dark&utcOffset=8) |
+ | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killao1&show_icons=true&hide_border=true&theme=chartreuse-dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Killao1&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Killao1&theme=chartreuse_dark&utcOffset=8) |
 | :-: | :-: | :-: |
 
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Killao1&theme=chartreuse_dark)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akillys&theme=chartreuse_dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats) |
